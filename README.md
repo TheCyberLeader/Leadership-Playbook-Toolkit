@@ -19,7 +19,7 @@ When I first studied change management, I thought it was about creating Gantt ch
 **Resources**  
 - [UC Berkeley Change Management Toolkit (PDF)](https://hr.berkeley.edu/sites/default/files/change_management_toolkit.pdf)  
 - [Sparkbay: 10 Change Readiness Survey Questions](https://sparkbay.com/en/culture-blog/change-readiness-survey-questions-37)  
-- [Prosci Change Management Resources](https://www.prosci.com/resources/articles/change-management-surveys)  
+- [Prosci Change Management Case Studies](https://www.prosci.com/resources/success-stories?hsCtaAttrib=144189548436)  
 
 **Reflection**  
 Change readiness isn’t just about budgets or timelines; it’s about whether people believe in the journey. The frameworks here taught me that fundamental transformation happens when leaders create clarity, communicate consistently, and reinforce progress over time.  
@@ -48,8 +48,8 @@ I’ve always been fascinated by what makes teams “click.” In my MBA, I lear
 
 **Resources**  
 - [Gallup Q12 Employee Engagement Survey](https://www.gallup.com/workplace/349484/gallup-q12-employee-engagement-survey.aspx)  
-- [MindTools Leadership Styles Quiz](https://www.mindtools.com/azpnb8g/leadership-styles)  
-- [SHRM Survey Toolkit](https://www.shrm.org/resourcesandtools/tools-and-samples/toolkits/pages/surveys.aspx)  
+- [Pace University – Leadership Style Questionnaire (PDF)](https://www.pace.edu/sites/default/files/2021-06/leadership-style-questionnaire.pdf)
+- [Eletive Blog: Employee Engagement Survey Question Guide](https://eletive.com/blog/employee-engagement-survey-questions/)  
 
 **Reflection**  
 Engagement diagnostics are not just numbers — they’re signals of trust. My biggest takeaway is that metrics should drive dialogue, not just dashboards. Leaders need to act on what they learn, otherwise the survey itself becomes a symbol of distrust.  
@@ -96,6 +96,8 @@ This toolkit is useful when:
 - Team building and conflict resolution workshops.  
 - Organizational planning and strategy sessions.  
 
+## 🔄 Ongoing Updates  
+This toolkit is a living project. I plan to maintain and update these resources over time as I explore new frameworks, tools, and real-world applications in leadership and cybersecurity governance.  
 ---
 
 ## 📧 Contact  
