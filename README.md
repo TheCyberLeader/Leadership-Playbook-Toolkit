@@ -95,7 +95,7 @@ This toolkit is a living project. I plan to maintain and update these resources 
 ## 📧 Contact  
 Marie Wang
 MBA + MS in Leadership & Organizational Dynamics – University of Michigan  
-[LinkedIn](https://www.linkedin.com/in/mariezw/) | [mzw@umich.edu]  
+[LinkedIn](https://www.linkedin.com/in/mariezw/) | [Email](mzw@umich.edu)
 
 
 
