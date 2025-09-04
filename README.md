@@ -75,9 +75,8 @@ Kotter and ADKAR gave me roadmaps for leading change; Tuckman reminded me that p
 
 ## 🚀 How to Use  
 1. Explore the modules in this repo.  
-2. Download templates (Word, Excel, PDF) to use directly.  
-3. Run Jupyter notebooks for interactive diagnostics.  
-4. Use the Leadership Theory Wiki for quick reference.  
+2. Download templates (Word, Excel, PDF) to use directly.   
+3. Use the Leadership Theory Wiki for quick reference.  
 
 ---
 
