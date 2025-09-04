@@ -5,7 +5,7 @@
 ## 🎯 Purpose  
 This repository is a culmination of my **MBA** and **MS in Leadership & Organizational Dynamics (Organizational Leadership concentration)** at the University of Michigan.  
 
-Rather than a traditional dissertation, I built this as a **practical playbook** for professionals navigating leadership challenges in industry. It blends theory with application — frameworks, tools, and reflections you can actually use in the workplace.  
+Rather than a traditional dissertation, I built this as a **practical playbook** for professionals navigating leadership challenges in industry. It blends theory with application - frameworks, tools, and reflections you can actually use in the workplace.  
 
 ---
 
@@ -13,7 +13,7 @@ Rather than a traditional dissertation, I built this as a **practical playbook**
 
 ### **Change Management Framework**  
 
-When I first studied change management, I thought it was about creating Gantt charts and project plans. My MBA reinforced that — efficiency, timelines, ROI. But my MS experience shifted the lens: change succeeds or fails not because of the plan, but because of the people. This section collects the tools that helped me understand that balance.  
+When I first studied change management, I thought it was about creating Gantt charts and project plans. My MBA reinforced that - efficiency, timelines, ROI. But my MS experience shifted the lens: change succeeds or fails not because of the plan, but because of the people. This section collects the tools that helped me understand that balance.  
 
 **Resources**  
 - [UC Berkeley Change Management Toolkit (PDF)](https://hr.berkeley.edu/sites/default/files/change_management_toolkit.pdf)  
@@ -33,7 +33,7 @@ Early in my career, I thought negotiations were about outsmarting the other side
 - [The PMO Squad Negotiation Template](https://www.thepmosquad.com/negotiation-template)  
 - [IBER Global Negotiations Checklist (PDF)](https://www.iberglobal.com/files/ChecklistNegotiations1.pdf)  
 
-Structured conflict, when managed with respect, surfaces better solutions. These templates remind me that preparation and empathy are the real differentiators in any negotiation. It’s not about “winning” — it’s about creating outcomes people can live with and support.  
+Structured conflict, when managed with respect, surfaces better solutions. These templates remind me that preparation and empathy are the real differentiators in any negotiation. It’s not about “winning” - it’s about creating outcomes people can live with and support.  
 
 ---
 
@@ -46,13 +46,13 @@ I’ve always been fascinated by what makes teams “click.” In my MBA, I lear
 - [Pace University – Leadership Style Questionnaire (PDF)](https://www.pace.edu/sites/default/files/2021-06/leadership-style-questionnaire.pdf)
 - [Eletive Blog: Employee Engagement Survey Question Guide](https://eletive.com/blog/employee-engagement-survey-questions/)  
  
-Engagement diagnostics are not just numbers — they’re signals of trust. My biggest takeaway is that metrics should drive dialogue, not just dashboards. Leaders need to act on what they learn, otherwise the survey itself becomes a symbol of distrust.  
+Engagement diagnostics are not just numbers; they’re signals of trust. My biggest takeaway is that metrics should drive dialogue, not just dashboards. Leaders need to act on what they learn; otherwise, the survey itself becomes a symbol of distrust. 
 
 ---
 
 ### **Leadership Theory Wiki**  
 
-Textbooks love frameworks, and I’ve studied a lot of them: Kotter, ADKAR, Tuckman, Situational Leadership. At first, I treated them like formulas — just follow the steps. Over time, I realized they’re more like maps. They don’t tell you exactly how to get there, but they stop you from getting lost.  
+Textbooks love frameworks, and I’ve studied a lot of them: Kotter, ADKAR, Tuckman, Situational Leadership. At first, I treated them like formulas - just follow the steps. Over time, I realized they’re more like maps. They don’t tell you exactly how to get there, but they stop you from getting lost.  
 
 **Resources**  
 - [Kotter’s 8-Step Change Model (PDF)](https://portal.ct.gov/-/media/SDE/Turnaround/School-Improvement-Resources/Kotters_model.pdf)  
@@ -62,7 +62,7 @@ Textbooks love frameworks, and I’ve studied a lot of them: Kotter, ADKAR, Tuck
 - [Tuckman’s Group Development Stages (Wikipedia)](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)  
 - [Tuckman’s Model Explained (YouTube Video)](https://www.youtube.com/watch?v=-RwkZxGPQb8)  
 
-Kotter and ADKAR gave me roadmaps for leading change; Tuckman reminded me that people move at different speeds. The real skill is knowing when to adapt, when to push, and when to let the team storm a little before they settle. No single framework has the answer — but together, they give leaders perspective.  
+Kotter and ADKAR gave me roadmaps for leading change; Tuckman reminded me that people move at different speeds. The real skill is knowing when to adapt, when to push, and when to let the team storm a little before they settle. No single framework has the answer - but together, they give leaders perspective.  
 
 ---
 
