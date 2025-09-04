@@ -1,4 +1,4 @@
-<img width="1066" height="444" alt="Screenshot 2025-09-04 at 2 21 58 PM" src="https://github.com/user-attachments/assets/c9929041-733a-4239-874e-27fa71b10764" />
+<img width="1064" height="439" alt="Screenshot 2025-09-04 at 2 23 13 PM" src="https://github.com/user-attachments/assets/af4d9940-e3e6-49be-b37d-a9be2c9383e5" />
 
 # Leadership-Playbook-Toolkit 
 
