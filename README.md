@@ -97,7 +97,8 @@ This toolkit is useful when:
 - Organizational planning and strategy sessions.  
 
 ## 🔄 Ongoing Updates  
-This toolkit is a living project. I plan to maintain and update these resources over time as I explore new frameworks, tools, and real-world applications in leadership and cybersecurity governance.  
+This toolkit is a living project. I plan to maintain and update these resources over time as I explore new frameworks, tools, and real-world applications in leadership and cybersecurity governance.
+
 ---
 
 ## 📧 Contact  
